@@ -1,3 +1,54 @@
+<h1 align="center" id="title">Houses with angular</h1>
+
+<p id="description">I created this Angular project to familiarize myself with the basic functionalities of Angular. Since I feel confident with React I decided it was time to explore a new technology. I've found Angular quite easy to understand and I'm confident that with a couple of projects under my belt I'll be navigating it like a fish in water. 29/4/2024</p>
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://i.ibb.co/PxKgrYN/angular4.jpg" alt="project-screenshot" width="400" height="400/">
+
+<img src="https://i.ibb.co/ZfdFHNk/angular3.jpg" alt="project-screenshot" width="400" height="400/">
+
+<img src="https://i.ibb.co/Yc77bY0/angular2.jpg" alt="project-screenshot" width="400" height="400/">
+
+<img src="https://i.ibb.co/V06rBJX/angular1.jpg" alt="project-screenshot" width="400" height="400/">
+
+  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   Angular
+*   typescript
+*   html
+*   css
+
+<h2>💖Like my work?</h2>
+
+✉️Email: iveth.dev@gmail.com 💻GitHub: https://github.com/ivethglez80 💼 portfolio: https://ivt-portfolio.vercel.app/​
+
+<h1 align="center" id="title">Houses with angular</h1>
+
+<p id="description">I created this Angular project to familiarize myself with the basic functionalities of Angular. Since I feel confident with React I decided it was time to explore a new technology. I've found Angular quite easy to understand and I'm confident that with a couple of projects under my belt I'll be navigating it like a fish in water. 29/4/2024</p>
+
+<h2>Project Screenshots:</h2>
+
+<img src="https://i.ibb.co/PxKgrYN/angular4.jpg" alt="project-screenshot" width="400" height="400/">
+
+ <img src="https://i.ibb.co/ZfdFHNk/angular3.jpg" alt="project-screenshot" width="400" height="400/">
+
+ <img src="https://i.ibb.co/Yc77bY0/angular2.jpg" alt="project-screenshot" width="400" height="400/">
+
+ <img src="https://i.ibb.co/V06rBJX/angular1.jpg" alt="project-screenshot" width="400" height="400/">
+
+<h2>💻 Built with</h2>
+
+Technologies used in the project: \* Angular \* typescript \* html \* css<h2>💖Like my work?</h2>
+
+✉️Email: iveth.dev@gmail.com 💻GitHub: https://github.com/ivethglez80 💼 portfolio: https://ivt-portfolio.vercel.app/​
+
+
+
 # ECommerceClient
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.5.
